@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "forceConsistentCasingInFileNames": true,
+      "rootDir": "./",
+      "outFile": "./build/build.js",
+      "baseUrl": "./",
+      "sourceMap": true,
+      "module": "amd"
+    }
+  }
